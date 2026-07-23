@@ -9,6 +9,7 @@ The Node.js project uses an [open governance model](./GOVERNANCE.md). The
 
 **This project has a [Code of Conduct][].**
 
+
 ## Table of contents
 
 * [Support](#support)
